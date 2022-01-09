@@ -12,7 +12,8 @@
 <a href="https://linkedin.com/in/marc-r-8463b6167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-r-8463b6167" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11641932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11641932" height="30" width="40" /></a>
 <a href="https://github.com/MarcRoemmelt/MarcRoemmelt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" alt="marcroemmelt"></a>
-<a href="mailto:mail@m-roemmelt.com" target="blank"><img align="center" src="https://github.com/MarcRoemmelt/MarcRoemmelt/icons/email.png" height="30" width="30" alt="marcroemmelt"></a>
+<a href="mailto:mail@m-roemmelt.com" target="blank"><img align="center" src="https://github.com/MarcRoemmelt/MarcRoemmelt/raw/main/icons/email.png" height="30" width="30" alt="marcroemmelt"></a>
+<a href="mailto:mail@m-roemmelt.com" target="blank"><img align="center" src="icons/email.png" height="30" width="30" alt="marcroemmelt"></a>
 </p>
 
 <br/><br/>
