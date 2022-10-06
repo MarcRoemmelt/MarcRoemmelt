@@ -50,6 +50,3 @@ I'm Marc, full-stack engineer from <img src="icons/germany.png" height="13" /> <
 <a href="https://github.com/MarcRoemmelt/MarcRoemmelt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" alt="marcroemmelt"></a>
 <a href="mailto:mail@m-roemmelt.com" target="blank"><img align="center" src="icons/email.png" height="30" width="30" alt="marcroemmelt"></a>
 </p>
-
-<br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcroemmelt&show_icons=true&locale=en&layout=compact" alt="marcroemmelt" /></p>
